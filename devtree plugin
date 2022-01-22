@@ -1,0 +1,14 @@
+playerskills
+
+controller
+	player
+		components
+			actor
+        skills are at the bottom
+        
+buffs
+
+controller
+	player
+		components
+			buffs
